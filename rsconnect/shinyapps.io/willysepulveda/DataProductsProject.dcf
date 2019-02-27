@@ -1,0 +1,12 @@
+name: DataProductsProject
+title: DataProductsProject
+username:
+account: willysepulveda
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 743121
+bundleId: 1903491
+url: https://willysepulveda.shinyapps.io/DataProductsProject/
+when: 1551273987.03111
+asMultiple: FALSE
+asStatic: FALSE
